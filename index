@@ -1,0 +1,27 @@
+<html>
+<head>
+<link rel="icon" type="image/PNG" href="Favicon.png">
+<title>Keys to War</title>
+</head>
+<body>
+<header>
+    <a href="index.html">
+    <img src="KeystoWarLogo.png" alt="Keys to War" title="All for one!" width="100%">
+    </a>
+<header>
+<nav>
+<table>
+<tr>
+<td align=right>
+<a href="About.html" title="Learn More">
+    <img src="KtWAbout-Button.png" width="50%" height="25%"></a></td>
+<center><td><center>
+<a href="Rules.html" title="How to Play">
+    <img src="KtWRules-Button.png" width="50%" height="25%"></a></td>
+<td align=left>
+<a href="Shop.html" title="For Sale">
+    <img src="KtWShop-Button.png" width="50%" height="25%"></a></td>
+</tr>
+</table>
+</nav>
+</html>
