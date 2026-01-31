@@ -13,11 +13,11 @@
 <table>
 <tr>
 <td align=right>
-<a href="Codex.html" title="Information">
+<a href="Codex.html" title="Learn More">
     <img src="KtWCodex-Button.png" width="50%" height="25%"></a></td>
 <center><td><center>
-<a href="Rules.html" title="How to Play">
-    <img src="KtWRules-Button.png" width="50%" height="25%"></a></td>
+<a href="UserInformation.html" title="Information">
+    <img src="KtWUserInfo-Button.png" width="50%" height="25%"></a></td>
 <td align=left>
 <a href="Shop.html" title="For Sale">
     <img src="KtWShop-Button.png" width="50%" height="25%"></a></td>
