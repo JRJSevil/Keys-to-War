@@ -1,0 +1,28 @@
+<html>
+<head>
+<link rel="icon" type="img/PNG" href="Favicon.png">
+<title>Keys to War - User Info</title>
+</head>
+<body>
+<header style="display: flex; justify-content: center; align-items: center; position: relative;">
+<div style="overflow-y:auto; position:absolute; z-index:2; width:45%; height:59%">
+    <a href="User Info/Beta Edition.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration:none; font-family:Arial; color:000000; font-size:1.3vw" title="Go"> > Beta Edition</a><br>
+</div>
+<div style="position:relative; z-index:1">
+    <img src="Background-_UserInfo_.png" width="100%">
+</div>
+</header>
+<table>
+<tr>
+<td align=right>
+<a href="index.html" title="Back">
+    <img src="Home-Button.png" width="50%" height="25%"></a></td>
+<center><td><center>
+<a href="codex.html" title="Learn More">
+    <img src="Codex-Button.png" width="50%" height="25%"></a></td>
+<td align=left>
+<a href="shop.html" title="For Sale">
+    <img src="Shop-Button.png" width="50%" height="25%"></a></td>
+</tr>
+</table>
+</html>
